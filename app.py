@@ -49,4 +49,4 @@ def error_handler(error):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)  # 開発用サーバーの起動
+    app.run()  # 開発用サーバーの起動
